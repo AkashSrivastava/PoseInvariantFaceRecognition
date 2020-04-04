@@ -1,4 +1,5 @@
 # PoseInvariantFaceRecognition
+# Final Year Undergraduate projectr at NIT Jamshedpur
 
 Pose Invariant Face Recognition upto +-70 degree of yaw using PCA
 
